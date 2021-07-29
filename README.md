@@ -1,1 +1,1 @@
-"# GraphQl" 
+"# GraphQl learning repository" 
